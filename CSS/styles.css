@@ -82,3 +82,7 @@ footer p{
 .show-confirmation{
     display: block;
 }
+.social-icons{
+    font-size: 30px;
+    margin: 0px 8px 0px 8px;
+}
