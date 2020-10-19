@@ -5,7 +5,7 @@ Lizzies Pizzeria a Kenyan pizza House
 # BY ELIZABETH N. NDERITU
 
 # Description
-* This is a web application that allows users to oder their favorite pizza with the option of any extra preferences such as topings and delivery. lizzie pizzeria is a local pizza house in Kenya.
+* This is a web application that allows users to oder their favorite pizza with the option of any extra preferences such as topings and delivery. lizzies pizzeria is a local pizza house in Kenya.
 
 # Behaviour Driven Development.
 With the application, a user is able to:
